@@ -24,6 +24,7 @@ Otomatik zıplayan karakteri sağa ve sola yönlendirerek yükselin. Beş karakt
 - **Rüzgâr** 11. bölgeden itibaren ara ara eser; önce ok ve uyarı çıkar, sonra seni yana iter.
 - Her yeni bölgede platformlar biraz daralır, aralar açılır, hareketli platformlar daha hızlı ve geniş salınır, drone'lar çoğalır.
 - 10. bölgeye ulaşınca canın eksikse bir can hediye edilir.
+- Kırılan (pembe) platformlar yaklaşık 2,5 saniye sonra yeniden belirir; aşağıda kalırsan biraz bekleyip yeniden yukarı çıkabilirsin. Uzun süre yükselemezsen oyun araya yardım platformu koyar.
 
 ## Kontroller
 
